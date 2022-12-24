@@ -2,7 +2,14 @@
 
 Convert images to ascii art and write it to text files using Rust 🦀.
 
-## Run Locally
+## Install from git
+Just make sure you have the rust toolchain installed and then run:
+
+```bash
+cargo install --git https://github.com/codeaye/ascii_art --profile=release
+```
+
+## Install Locally
 
 Clone the project
 
@@ -27,7 +34,7 @@ Or if you dont have make, just run
   cargo install --path . --profile release
 ```
 
-Then get some images.
+## Usage
 Then run:
 
 ```bash
