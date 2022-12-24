@@ -7,13 +7,13 @@ Convert images to ascii art and write it to text files using Rust 🦀.
 Clone the project
 
 ```bash
-  git clone https://github.com/codeaye/brainf
+  git clone https://github.com/codeaye/ascii_art
 ```
 
 Go to the project directory
 
 ```bash
-  cd brainf
+  cd ascii_art
 ```
 
 Install the cli globally with cargo
